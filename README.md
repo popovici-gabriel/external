@@ -1,2 +1,2 @@
 # external
-External presentations from talks/public speakars 
+External presentations from talks/public speakers  
